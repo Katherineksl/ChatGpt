@@ -1,0 +1,5 @@
+{
+  "name": "GeminiGPT Clone",
+  "description": "A high-fidelity clone of the ChatGPT interface powered by Google Gemini 2.5 Flash. Features a sleek login screen, sidebar history management, and real-time streaming responses.",
+  "requestFramePermissions": []
+}
